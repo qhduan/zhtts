@@ -19,7 +19,7 @@ text = "2020年，这是一个开源的端到端中文语音合成系统"
 ## Install 
 clone this repo
 ```shell
-pip install "tensorflow>=2.3.0" numpy scipy pypinyin
+pip install "tensorflow>=2.3.0" numpy scipy pypinyin dataclasses
 ```
 for window , `pip install "tensorflow>=2.4.0rc"` because [this](https://www.tensorflow.org/lite/guide/ops_select#python)
 
